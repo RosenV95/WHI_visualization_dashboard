@@ -11,6 +11,7 @@ certifi==2020.12.5
 cffi @ file:///tmp/build/80754af9/cffi_1606255081583/work
 chardet==4.0.0
 click==7.1.2
+country-converter==0.7.2
 dash==1.19.0
 dash-bootstrap-components==0.11.1
 dash-core-components==1.15.0
